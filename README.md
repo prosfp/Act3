@@ -29,11 +29,7 @@ Alguns d'aquests arxius ja els reconeixes però anem a fer un petit recordatori:
 - package.json: Aquest fitxer és el fitxer de configuració per a npm. Llista les dependències i scripts per al projecte.
 - README.md: Aquest fitxer conté la documentació per al projecte.
 
-**Eslint** és una eina que ajuda a detectar errors i aplicar bones pràctiques en el codi JavaScript. Això ajuda a mantenir la qualitat del codi i a evitar errors comuns.
-
-Algunes configuracions recomanades per a Eslint són les següents:
-
-Eslint és una eina que **ajuda a detectar errors de codi** i a aplicar estàndards de codificació en el teu projecte.
+**Eslint** és una eina que ajuda a **detectar errors i aplicar bones pràctiques** en el codi JavaScript. Això ajuda a mantenir la qualitat del codi i a evitar errors comuns (més info --> https://www.youtube.com/watch?v=QpDpRmlFfqI&ab_channel=midulive).
 
 Si mires el fitxer de configuració (.eslintrc.json) veuràs que hi ha un seguit de regles que s'apliquen al codi. Aquestes regles són les que Eslint comprovarà quan executis la comanda "npm run lint" i et dirà si el teu codi compleix amb elles o no. En aquest arxiu, estem establint per exemple que volem:
 
